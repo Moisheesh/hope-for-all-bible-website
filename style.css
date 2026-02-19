@@ -1,0 +1,35 @@
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f7fb;
+    color: #478ac9;
+}
+
+
+nav {
+    background: #b7bcc7;
+    padding: 12px;
+    text-align: center;
+}
+
+nav a {
+    color:  000000;
+    text-decoration: none;
+    margin: 0 12px;
+}
+
+nav a:hover {
+    color: #441c1c;
+}
+
+
+main {
+    max-width: 900px;
+    margin: 24px auto;
+    padding: 0 16px;
+}
+
+input, textarea, button {
+    font: inherit;
+}
